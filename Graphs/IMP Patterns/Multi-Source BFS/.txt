@@ -1,0 +1,7 @@
+You should immediately think of "Multi-Source BFS" whenever you see a problem like:
+
+"Find the distance of every cell to the nearest X."
+
+"What is the maximum distance I can be from any danger zone?" (Like the "Safest Path" problem we discussed).
+
+Any problem where multiple objects are expanding or "influencing" their environment simultaneously.
